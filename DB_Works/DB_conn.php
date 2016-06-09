@@ -1,6 +1,5 @@
 <?php
 /*
- * Author Dwkr16 for Stunet Geek Blog 
  * Defining Data Source Name
  * Username and Password
  * of your Database 
